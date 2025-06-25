@@ -19,9 +19,7 @@ export default function Home() {
             >
               Wordware.
             </Link>{" "}
-            I like surfing, muay thai, steak, saunas, reading, writing, and tea.
           </p>
-          <p></p>
         </div>
 
         {/* Social Links */}
