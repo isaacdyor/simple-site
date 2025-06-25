@@ -12,7 +12,7 @@ export default function Home() {
         {/* Bio */}
         <div className="flex flex-col items-center gap-1 text-sm sm:text-base text-neutral-400 leading-relaxed max-w-md">
           <p>
-            20 year old engineer building memory at{" "}
+            20 year old engineer building agents at{" "}
             <Link
               href="https://wordware.ai"
               className="text-blue-500 hover:underline transition-colors"
