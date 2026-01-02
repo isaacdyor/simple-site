@@ -25,21 +25,12 @@ export default function Home() {
         {/* Social Links */}
         <div className="flex items-center justify-center gap-4 sm:gap-6">
           <a
-            href="https://isaacdyor.substack.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-neutral-300 hover:text-white transition-colors"
-          >
-            Writing
-          </a>
-          <span className="text-neutral-700 select-none">·</span>
-          <a
             href="https://github.com/isaacdyor"
             target="_blank"
             rel="noopener noreferrer"
             className="text-neutral-300 hover:text-white transition-colors"
           >
-            Code
+            GitHub
           </a>
           <span className="text-neutral-700 select-none">·</span>
           <a
@@ -48,7 +39,7 @@ export default function Home() {
             rel="noopener noreferrer"
             className="text-neutral-300 hover:text-white transition-colors"
           >
-            Thoughts
+            X
           </a>
         </div>
       </div>
