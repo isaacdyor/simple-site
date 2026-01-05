@@ -30,7 +30,7 @@ export default function Home() {
             rel="noopener noreferrer"
             className="text-neutral-300 hover:text-white transition-colors"
           >
-            GitHub
+            Github
           </a>
           <span className="text-neutral-700 select-none">·</span>
           <a
